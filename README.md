@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Diksha Nigam.👩‍🦰 
 
-I have studied MSc in Artificial Intelligence from the University of Manchester. 🎓
+I have studied MSc in Artificial Intelligence from the University of Manchester.🎓
 
-I have 2+ years of experience working as a Software Engineer in an American based fortune 500 MNC, TIAA bank. 👩‍💻
+I have 2+ years of experience working as a Software Engineer in an American based fortune 500 MNC, TIAA bank.👩‍💻
 
-I love joining different communities and competitions that involve creating something for society! 👯
+I love joining different communities and competitions that involve creating something for society!👯
