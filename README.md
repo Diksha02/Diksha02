@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello!👋
-
 My name is Diksha Nigam.👩‍🦰 
 
 I have studied MSc in Artificial Intelligence from the University of Manchester. 🎓
